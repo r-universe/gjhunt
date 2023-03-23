@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dtangle"]
+	path = dtangle
+	url = https://github.com/cran/dtangle
+	shallow = true
+	registered = true
+[submodule "rrscale"]
+	path = rrscale
+	url = https://github.com/cran/rrscale
+	shallow = true
+	registered = true
